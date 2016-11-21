@@ -16,8 +16,77 @@ header.title {
 .title p {
 	margin-top: 640px;
 	font-size: 1.5em;
-	color: #aaa;
+	color: #ddd;
+}
+
+/******* body *******/
+
+
+
+
+/******* first article *******/
+
+#post1 {
+	background-color: #917870;
+	font-family: Verdana, sans-serif;
+	font-size: .9em;
+	color: #3c5861;
+	line-height: 2em;
+	padding: 5%;
+	border-radius: 80px 20px;
 }
 
 
-/*******  *******/
+/******* second article *******/
+
+#post2 {
+	background-color: #887091;
+	font-family: Papyrus, fantasy;
+	font-size: 1.1em;
+	color: #4f3831;
+	line-height: 1.6em;
+	padding: 1%;
+	border-radius: 20px 80px;
+}
+
+
+/******* third article *******/
+
+#post3 {
+	background-color: #799170;
+	font-family: Baskerville, serif;
+	font-size: 1.3em;
+	color: #945440;
+	line-height: 1.4em;
+	padding: 2%;
+	border-radius: 10px;
+}
+
+
+/******* fourth article *******/
+
+#post4 {
+	background-color: #708991;
+	font-family: Arial Rounded MT Bold, sans-serif;
+	font-size: 1.5em;
+	color: #702108;
+	line-height: 1em;
+	padding: 6%;
+	border-radius: 200px;
+}
+
+
+/******* fifth article *******/
+
+#post5 {
+	background-color: #f7f3b5;
+	font-family: Courier New, monospace;
+	font-size: .8em;
+	color: #222;
+	line-height: 2.3em;
+	padding: 3%;
+	border-radius: 50px;
+}
+
+
+
