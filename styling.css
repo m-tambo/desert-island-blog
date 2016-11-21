@@ -1,0 +1,23 @@
+/******* heading *******/
+
+header.title {
+	height: 740px;
+	margin: 0;
+	background-image: url(desert_island.png);
+	background-size: 100% auto;
+}
+
+.title h1 {
+	font-size: 2em;
+	font-family: "Lucida Sans Typewriter", sans-serif;
+	margin-left: 2%;
+}
+
+.title p {
+	margin-top: 640px;
+	font-size: 1.5em;
+	color: #aaa;
+}
+
+
+/*******  *******/
